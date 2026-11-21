@@ -1,16 +1,6 @@
-# António Sérgio Azevedo
+<a href="https://asergaz.com"><img src="favicon.svg" alt="asergaz" width="72"></a>
 
-Independent consultant. Optimizing technical content for humans and agents. Designing secure and efficient IoT & Edge AI solutions, from device to cloud.
+I'm António Sérgio Azevedo. I help teams with content, prompt and context engineering, so their docs work for humans and AI agents alike, and with AI strategy for IoT & Edge AI solutions. The [Knowledge Loop](https://asergaz.com/knowledge-loop/) is how I keep docs current with every release. See it in the [live demo](https://aikloopdemo.asergaz.com/). The [Edge AI Path](https://asergaz.com/edge-ai-path/) is how I help IoT teams decide what should run in the cloud and what should run on the device.
 
-I'm a Portuguese independent consultant with 15 years of experience across Microsoft, Snyk and Academia, helping teams with content, prompt and context engineering and with AI strategy for IoT & Edge AI solutions.
+More at **[asergaz.com](https://asergaz.com)**.
 
-My work has spanned across Azure IoT, Edge AI, Kubernetes, AI agents and Cybersecurity. I built internal AI agents that turned scattered customer feedback into weekly fixes, redesigned docs workflows so content could be drafted in seconds and helped Fortune 500 teams decide what should run in the cloud and what should run on the device.
-
-Alongside that, I teach NoSQL databases at Nova IMS, where more than 800 post-graduate students have taken my classes.
-
-## Two ways to work with me
-
-Each starts with a two-week assessment.
-
-- **[The Knowledge Loop](https://asergaz.com/knowledge-loop/)** — content, prompt and context engineering.
-- **[The Edge AI Path](https://asergaz.com/edge-ai-path/)** — AI strategy advisory for IoT & Edge AI.
